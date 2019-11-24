@@ -3,7 +3,7 @@
 
 ## Ambiente Ruby On Rails
 
-***Esse documento servirá de base para a sua migração, aplicável apenas em ambiente Ruby On Rails. Peço que o leia inteiro antes de começar as atividades. Importe salientar a diversidade de ambiente e que a sua migração será diferente da que eu realizei. Você deve analisar a estrutura do seu projeto e do seu banco de dados e, depois de ler o documento, analisar se servirá para o seu ambiente.***
+***Esse documento servirá de base para a sua migração, aplicável apenas em ambiente Ruby On Rails. Peço que o leia inteiro antes de começar as atividades. Importante salientar a diversidade de ambiente e que a sua migração será diferente da que eu realizei. Você deve analisar a estrutura do seu projeto e do seu banco de dados e, depois de ler o documento, analisar se servirá para o seu ambiente.***
 
 Esse repositorio foi criado com o objeto de passar uma experiencia de migração de dados em ambientes corporativos. Desde uma migração simples, onde a base de dados origem não é muito grande, até uma grande migração, onde a base de dados origem possui uma quantidade de dados relevante. Peço que considere a possibilidade de migrar apenas as tabelas do banco que são essenciais para a base do seu projeto. Se puder excluir por exemplo `rails_logs` e entre outras tabelas não importantes, o tempo de migração cairá.
 
