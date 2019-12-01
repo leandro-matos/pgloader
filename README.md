@@ -54,7 +54,7 @@ baixe o source code do projeto e realize o build do programa. Boa sote
                                    Index Build Completion        183        183          0          0.021s
                                           Reset Sequences         81         81          0          0.835s
                                              Primary Keys         81         81          0          0.064s
-								      Create Foreign Keys          1          1          0          0.016s
+				      Create Foreign Keys          1          1          0          0.016s
                                           Create Triggers          0          0          0          0.000s
                                          Install Comments          0          0          0          0.000s
 ---------------------------------------------------------  ---------  ---------  ---------  --------------
